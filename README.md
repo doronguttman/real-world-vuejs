@@ -1,4 +1,5 @@
-# real-world-vue
+# Real World Vue.js
+In this repo I will implement the lessons from [Vue Mastery][1]'s [Real World Vue.js][2] course.
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+[1]: https://www.vuemastery.com/
+[2]: https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro
