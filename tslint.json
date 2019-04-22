@@ -9,11 +9,26 @@
     ]
   },
   "rules": {
-    "quotemark": [true, "single"],
+    "quotemark": [true, "doulbe"],
     "indent": [true, "spaces", 2],
     "interface-name": false,
     "ordered-imports": false,
     "object-literal-sort-keys": false,
-    "no-consecutive-blank-lines": false
+    "no-consecutive-blank-lines": false,
+    "semicolon": true,
+    "await-promise": true,
+    "adjacent-overload-signatures": true,
+    "array-type": true,
+    "arrow-return-shorthand": true,
+    "ban": [true, [
+      "eval"
+    ]],
+    "class-name": true,
+    "comment-format":true,
+    "curly": true,
+    "deprecation": true,
+    "encoding": true,
+    "file-name-casing": [true, "kebab-case"],
+    "trailing-comma": false
   }
 }
